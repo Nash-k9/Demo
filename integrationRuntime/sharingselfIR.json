@@ -1,0 +1,12 @@
+{
+	"name": "sharingselfIR",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/9368119e-426b-4303-9074-0cd1eea6de6e/resourcegroups/svndemo/providers/Microsoft.DataFactory/factories/adfdemosvn/integrationruntimes/IRselfhosteddemo",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}

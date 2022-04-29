@@ -1,0 +1,9 @@
+{
+	"name": "svnadfdemo2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ca6c79b-2eac-45de-9484-55ec265abc48",
+		"tenantId": "6bfd56d6-8f3a-4227-b2c5-eed95ad2df86"
+	}
+}
